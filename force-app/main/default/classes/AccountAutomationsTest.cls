@@ -29,6 +29,7 @@ private class AccountAutomationsTest {
         System.assertEquals('Basauri, 6', acc.ShippingStreet, 'Default ShippingStreet is Basauri, 6');
         System.assertEquals('Madrid', acc.ShippingState, 'Default Shippingtate is Madrid');
         System.assertEquals('28023', acc.ShippingPostalCode, 'Default ShippingPostalCode is 28023');
+        //test
     }
 
     @isTest static void testDefaultPhone(){
