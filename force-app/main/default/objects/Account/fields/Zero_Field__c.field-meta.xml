@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Zero_Field__c</fullName>
-    <description>this is a test</description>
+    <description>I&apos;m updating the description</description>
     <externalId>true</externalId>
-    <inlineHelpText>this is also a test test test</inlineHelpText>
+    <inlineHelpText>Zero field ist o be used by AE</inlineHelpText>
     <label>Zero Field</label>
     <length>45</length>
     <required>false</required>
