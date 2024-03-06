@@ -33,4 +33,4 @@
 # **/mypackage/**/*
 
 # Exclude a specific metadata type (e.g., CustomObject)
-**/objects/**
+
