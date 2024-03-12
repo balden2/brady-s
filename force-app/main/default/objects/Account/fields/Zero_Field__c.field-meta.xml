@@ -2,13 +2,14 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Zero_Field__c</fullName>
     <description>zzzzzzzzz</description>
-    <externalId>true</externalId>
+    <externalId>false</externalId>
     <inlineHelpText>zzzzzzzzzz 123</inlineHelpText>
     <label>Zero Field</label>
-    <length>45</length>
+    <precision>4</precision>
     <required>false</required>
+    <scale>2</scale>
     <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>
-    <type>Text</type>
+    <type>Number</type>
     <unique>false</unique>
 </CustomField>
