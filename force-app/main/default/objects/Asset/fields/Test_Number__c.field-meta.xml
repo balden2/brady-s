@@ -5,10 +5,9 @@
     <externalId>false</externalId>
     <inlineHelpText>45</inlineHelpText>
     <label>Test Number</label>
-    <precision>18</precision>
+    <length>54</length>
     <required>false</required>
-    <scale>0</scale>
     <trackHistory>false</trackHistory>
-    <type>Number</type>
+    <type>Text</type>
     <unique>false</unique>
 </CustomField>
