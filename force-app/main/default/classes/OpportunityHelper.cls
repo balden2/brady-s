@@ -23,6 +23,7 @@ public class OpportunityHelper {
         if(opp != null) {
             opp.StageName = newStage;
             update opp;
+            //comment for testing
         }
     }
 }
